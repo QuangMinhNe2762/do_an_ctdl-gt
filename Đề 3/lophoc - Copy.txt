@@ -1,0 +1,7 @@
+6
+ES	Tieng Anh	1	2.5
+DS	Thiet Ke	2	4.5
+CNTT	CN Thong Tin	3	3.0
+CNTP	CN Thuc Pham	2	4.0
+KH	Khoa Hoc	3	4.0
+VL	Vat Ly	2	3.5

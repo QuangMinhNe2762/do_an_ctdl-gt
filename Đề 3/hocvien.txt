@@ -1,0 +1,15 @@
+10
+HV2	Nguyen Van	Anh	20	10	2002	DS	8.3
+HV1	Do Van	Trung	18	3	2001	ES	6.8
+HV4	Le Tan	Kiet	24	12	2002	DS	7.2
+HV3	Dao Quoc	Thai	5	6	2003	VL	6.9
+HV5	Nguyen Thai	Binh	1	4	2002	KH	8.8
+IT8	Do Minh	Dang	2	9	2002	CNTT	7.0
+ER3	Tran Duc	Son	4	12	2000	CNTP	6.7
+IT6	Le Bao	Tram	14	11	2001	CNTT	8.9
+GH7	Vo Thi Kim	Dung	20	12	1999	ES	4.5
+RT2	Do Duc	Son	9	5	2001	VL	4.0
+
+
+
+

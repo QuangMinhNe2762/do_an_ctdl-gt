@@ -1,0 +1,14 @@
+
+danh sach cac hoc vien dat hoc bong cua cac lop
+ES             Tieng Anh         	2.5 trieu/thang		sang
+Lop hoc khong co hoc vien dat hoc bong
+DS             Thiet Ke          	4.5 trieu/thang		chieu
+HV2		Nguyen Van	Anh	20/10/2002	8.30	DS
+CNTT           CN Thong Tin      	3.0 trieu/thang		toi
+IT6		Le Bao	Tram	14/11/2001	8.90	CNTT
+CNTP           CN Thuc Pham      	4.0 trieu/thang		chieu
+Lop hoc khong co hoc vien dat hoc bong
+KH             Khoa Hoc          	4.0 trieu/thang		toi
+HV5		Nguyen Thai	Binh	1/4/2002	8.80	KH
+VL             Vat Ly            	3.5 trieu/thang		chieu
+Lop hoc khong co hoc vien dat hoc bong

@@ -1,0 +1,71 @@
+﻿Build started 2/24/2022 1:24:57 PM.
+     1>Project "C:\Users\HP\OneDrive\Tài liệu\Visual Studio 2012\Projects\BTL_CTDL_GT\Đề 3\Đề 3.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp Source1.cpp Untitled1.cpp
+         Untitled1.cpp
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(151): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(181): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(254): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(287): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(307): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(382): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(387): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(407): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(462): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(500): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(544): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(571): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(596): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(602): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(627): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(670): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(733): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(738): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(746): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(797): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(802): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(810): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(826): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(830): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(837): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(857): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\hp\onedrive\tài liệu\visual studio 2012\projects\btl_ctdl_gt\đề 3\untitled1.cpp(882): warning C4101: 'p' : unreferenced local variable
+         Source1.cpp
+         Source.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\HP\OneDrive\Tài liệu\Visual Studio 2012\Projects\BTL_CTDL_GT\Debug\Đề 3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\HP\OneDrive\Tài liệu\Visual Studio 2012\Projects\BTL_CTDL_GT\Debug\Đề 3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\HP\OneDrive\Tài liệu\Visual Studio 2012\Projects\BTL_CTDL_GT\Debug\Đề 3.lib" /MACHINE:X86 Debug\Source.obj
+         Debug\Source1.obj
+         Debug\Untitled1.obj
+         Đề 3.vcxproj -> C:\Users\HP\OneDrive\Tài liệu\Visual Studio 2012\Projects\BTL_CTDL_GT\Debug\Đề 3.exe
+     1>Done Building Project "C:\Users\HP\OneDrive\Tài liệu\Visual Studio 2012\Projects\BTL_CTDL_GT\Đề 3\Đề 3.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.95
